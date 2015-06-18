@@ -23,4 +23,4 @@ In the <project_path> write in terminal:
 grunt serve
 ```
 
-Then open your browser & go to http://localhost:9000/index.html
+Then open your browser & go to [http://localhost:9000/index.html](http://localhost:9000/index.html)
